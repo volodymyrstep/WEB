@@ -1,0 +1,7 @@
+<module rename-to="mywebap">
+  <inherits name="com.google.gwt.user.User"/>
+ 
+  <source path=""/>
+  <entry-point class="com.mycompany.mywebap.App"/>
+  <set-property name="user.agent" value="gecko1_8,safari"/>
+</module>
